@@ -5,3 +5,5 @@ sounddevice
 numpy
 soundfile
 python-docx
+numpy
+
