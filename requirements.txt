@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pydub
+sounddevice
+numpy
+soundfile
+python-docx
