@@ -6,4 +6,4 @@ numpy
 soundfile
 python-docx
 numpy
-
+pyaudio
